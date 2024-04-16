@@ -15,7 +15,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          CI/CD Using GithubActions
+          Continuous Integration
         </a>
       </header>
     </div>
